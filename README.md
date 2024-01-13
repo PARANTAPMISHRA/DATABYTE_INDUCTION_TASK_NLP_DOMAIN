@@ -2,6 +2,11 @@
  
 This repository is for the DATABYTE INDUCTIONS TASK FOR NLP DOMAIN FOR CREATING THE THE MOVIE RECOMMENDER SYSTEM.
 
+
+![Screenshot 2024-01-13 093840](https://github.com/PARANTAPMISHRA/DATABYTE_INDUCTION_TASK_NLP_DOMAIN/assets/119800240/ae7369ce-1a25-4af0-a223-30247c6337cc)
+
+
+
 RECOMMENDER SYSTEM IS THE AREA WHICH IS HIGHLY USED IN THE COMPANIES FOR SUGGESTING THEIR CONSUMERS THE ITEM/PRODUCT WHICH THEY MAY LIKE.
 
 # TYPES OF RECOMMENDATION SYSTEMS:
@@ -30,3 +35,9 @@ For this task I have tried to implement the Matrix Factorization technique on th
 # Further I made a user interactive website in which user will enter the movie from the given list of the movies and model will recommend the similar movies based on either:
   1. Cosine Similarty ( for all models in which KNN is used ) and 
   2. Eucledian Distance ( for K-Means model )
+
+## INPUT: TOY STORY
+
+
+![Screenshot 2024-01-13 094447](https://github.com/PARANTAPMISHRA/DATABYTE_INDUCTION_TASK_NLP_DOMAIN/assets/119800240/75b6723a-7848-4ed6-bdcb-db2c1ec6d913)
+
